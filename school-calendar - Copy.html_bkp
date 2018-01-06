@@ -26,10 +26,9 @@
   </div>
   <div id="content">
     <div>
-      <h3>Cloudsters Flying Club</h3>
+      <h3>School Calendar - 2012</h3>
       <div class="calendar">
-      <iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mdv6l1ggl2u09p1v8e71p6g2hc%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FChicago" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-       <!-- <dl>
+        <dl>
           <dt>JANUARY</dt>
           <dd>Suspendisse nulla - Sat, 5</dd>
           <dd>Lorem tincidunt - Mon, 8</dd>
@@ -124,7 +123,7 @@
           <dd>Malesuada sit amet - Mon, 21</dd>
           <dd>varius non magna - Wed, 27</dd>
           <dd>Felis et ante viverra - Thur, 28</dd>
-        </dl> -->
+        </dl>
       </div>
     </div>
   </div>
